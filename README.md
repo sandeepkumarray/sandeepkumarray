@@ -1,6 +1,5 @@
 ![Chill Mario, Pixel Jeff](https://github.com/user-attachments/assets/1e9be2aa-0004-42d6-8afd-ed21854fc89b)
 
-## Hi there, I'm Sandeep👋 
 # Hi there 👋 I'm sandeepkumarray
 
 <p align="center">
